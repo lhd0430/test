@@ -1,0 +1,14 @@
+[
+{
+'words': ['He', 'has', 'cancer', '.'],
+'entities': ['O', 'O', 'B-disease', 'O']
+},
+{
+'words': ['\n\n'],
+'entities': ['O']
+},
+{
+'words': ['She', 'has', 'celiac', 'disease', '.'],
+'entities': ['O', 'O', 'B-disease', 'I-disease', 'O']
+}
+]
